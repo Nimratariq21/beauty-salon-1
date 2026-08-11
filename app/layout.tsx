@@ -15,8 +15,8 @@ const cormorant = Cormorant_Garamond({
 
 export const metadata: Metadata = {
   title: {
-    default: "Zehra Abbas Salon",
-    template: "%s | Zehra Abbas Salon",
+    default: "NOIR",
+    template: "%s | NOIR",
   },
   description:
     "Luxury beauty salon in Karachi offering bridal makeup, hairstyling, facials, spa treatments and premium beauty services.",

@@ -4,7 +4,7 @@ const images = [
   "/images/gallery/gallery-1.jpg",
   "/images/gallery/gallery-3.jpg",
   "/images/gallery/gallery-2.jpg",
-  "/images/gallery/gallery-4.jpg",
+  "/images/gallery/gallery-7.jpg",
 ];
 
 export default function Instagram() {
